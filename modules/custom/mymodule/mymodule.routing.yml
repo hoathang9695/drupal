@@ -1,0 +1,7 @@
+mymodule.content:
+  path: '/mymodule' 
+  defaults: 
+    _controller: '\Drupal\mymodule\Controller\MymoduleController::content' 
+    _title: 'Hello World'
+  requirements: 
+    _permission: 'access content' 

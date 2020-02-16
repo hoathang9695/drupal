@@ -1,0 +1,6 @@
+view rsvplist:
+ title: 'VIew RSVP Form'
+ description: "View and submit the RSVP Form"
+ access rsvplist report:
+ title: 'Access List of RSVPs'
+ restrict access: true
